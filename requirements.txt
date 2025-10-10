@@ -1,0 +1,31 @@
+# Core scientific stack
+numpy==1.26.4
+scipy==1.13.1
+numba==0.59.1
+h5py==3.11.0
+pandas==2.2.2
+
+# Symbolic and dynamics
+sympy==1.13.2
+pydy==0.7.1
+
+# Visualization and UI
+Pillow==10.4.0
+matplotlib==3.9.2
+plotly==5.24.1
+streamlit==1.39.0
+
+# Utilities and helpers
+tqdm==4.66.5
+psutil==6.0.0
+requests==2.32.3
+pyyaml==6.0.2
+jsonpickle==4.0.1
+rich==13.8.1
+colours==0.1.5   # verify correct package; if not, use `colour==0.1.5` or similar
+
+# Developer / testing / formatting
+pytest==8.3.3
+black==24.8.0
+flake8==7.1.1
+nbformat>=4.2.0

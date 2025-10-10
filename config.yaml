@@ -1,0 +1,17 @@
+
+# Default settings for the Three-Body Simulator
+
+simulation_defaults:
+  preset: "figure_eight.json"
+  duration_seconds: 20
+  time_steps: 2000
+  integrator_method: "RK45"
+
+ui_theme:
+  default_mode: "dark"
+  primary_color: "#636EFA" # Default Plotly blue
+  font: "sans-serif"
+
+logging:
+  level: "INFO"
+  directory: "data/logs"

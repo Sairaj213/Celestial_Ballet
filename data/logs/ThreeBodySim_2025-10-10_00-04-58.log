@@ -1,0 +1,4 @@
+2025-10-10 00:04:58,854 - ThreeBodySim - INFO - Initializing simulation components.
+2025-10-10 00:04:58,856 - ThreeBodySim - INFO - Symbolic system created.
+2025-10-10 00:04:58,856 - ThreeBodySim - WARNING - Using default preset 'chaotic_start.json'.
+2025-10-10 00:04:58,857 - ThreeBodySim - INFO - Simulation run completed.
